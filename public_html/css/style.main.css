@@ -1,0 +1,155 @@
+
+body {
+  margin: 0;
+    font-size: 13px;
+    background: #fafafa;
+    color: #616161;
+    direction: rtl;
+    line-height: 1.4;
+    font-family: 'rezerv','Myriad pro',tahoma;
+}
+
+
+.imageCover{
+  margin-top: 10px;
+  margin-bottom: 40px;
+  width: 100%;
+  background: url(../img/tolid-konande-miz-3.jpg);
+   background-repeat: no-repeat;
+     background-size: 100% 100%;
+  color: #fff;
+  height: 600px;
+}
+
+#footer
+{
+width: 100%;
+height: 300px;
+	margin:0 auto ;
+  background-color: #042745;
+  display: flex;
+  justify-content: center;
+
+  
+}
+.foot
+{
+  color: white;
+  font-size: 17px;
+  width: 400px;
+  margin: 10px;
+  overflow: hidden;
+  padding-top: 20px;
+}
+#footer_1
+{
+
+}
+#footer_2
+{
+
+}
+#footer_3
+{
+
+}
+
+
+.topnav{
+  margin: 0;
+  overflow: hidden;
+  background-color: rgb(197, 189, 189);
+  box-shadow: 5px 5px 5px grey;
+}
+
+.topnav .items{
+  float: right;
+}
+
+.topnav .logo{
+  float: left;
+}
+
+.topnav .active{
+  background-color: #04AA6D;
+  color: white;
+}
+
+.topnav a:hover{
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a{
+  float: right;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}
+.imgLogo {
+
+ width: 40px;
+ height: 20px;
+}
+
+.grid-container {
+  display: flex;
+  justify-content: center;
+
+  
+}
+
+.grid-container .product {
+  background-color: rgba(255, 255, 255, 0.8); 
+  width: 400px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+  box-shadow: rgb(0 0 0 / 50%) -4px 1px 10px;
+  border-radius: 12px;
+  overflow: hidden;
+
+}
+
+.grid-container .product .productImage {
+
+  text-align: center;
+  height: 300px;
+  margin-bottom: 20px;
+
+}
+
+.imgpro{
+  width: 100%;
+  height: 300px;
+
+}
+
+.productTitle{
+  text-align: center;
+}
+
+.productTitle > span{
+  font-size: 16px;
+}
+
+
+
+.title{
+  text-align: center;
+}
+
+.address{
+  margin-bottom: 40px;
+}
+
+.alignCenter{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+  
